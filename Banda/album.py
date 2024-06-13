@@ -5,4 +5,4 @@ class Album:
 
     def mostrar_info(self):
         print(f'Álbum: {self.titulo}, Ano: {self.ano_lancamento}')
-        print('Faixas:')
+        
